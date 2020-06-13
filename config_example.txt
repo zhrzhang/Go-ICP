@@ -19,10 +19,10 @@ transMinY=-0.5
 # Smallest translation value along dimension Z of translation cube
 transMinZ=-0.5
 # Side length of each dimension of translation cube
-transWidth=1.0
+transWidth=40
 
 # Set to 0.0 for no trimming
-trimFraction=0.0
+trimFraction=0.3
 
 # Nodes per dimension of distance transform
 distTransSize=300
